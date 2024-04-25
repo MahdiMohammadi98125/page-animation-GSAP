@@ -1,1 +1,1 @@
-# Next.js transition animation with GSAP
+# Next.js page transition animation with GSAP
